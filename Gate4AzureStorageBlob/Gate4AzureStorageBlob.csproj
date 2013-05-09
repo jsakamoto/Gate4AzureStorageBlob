@@ -44,9 +44,6 @@
     <Reference Include="AppOfflineModule">
       <HintPath>..\packages\AppOfflineModule.1.0.0.1\lib\net40\AppOfflineModule.dll</HintPath>
     </Reference>
-    <Reference Include="AppSettingsMembershipProvider">
-      <HintPath>..\packages\AppSettingsMembershipProvider.1.0.0.1\lib\net40\AppSettingsMembershipProvider.dll</HintPath>
-    </Reference>
     <Reference Include="HttpAuthenticationModule">
       <HintPath>..\packages\HttpAuthenticationModule.1.1\lib\HttpAuthenticationModule.dll</HintPath>
     </Reference>
